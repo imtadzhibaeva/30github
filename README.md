@@ -1,4 +1,4 @@
 # 30github
 GrowthHungryChallenge
 
-My name is Madinaand I am back to Github.
+My name is Madina and I am back to Github.
